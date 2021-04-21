@@ -1,0 +1,8 @@
+*.jar
+*.prefs
+*.classpath
+*.factorypath
+*.project
+*.iml
+*.lst
+/target
